@@ -20,3 +20,6 @@ aws cloudformation create-stack \
 --parameters file://parameters.json \
 --capabilities "CAPABILITY_IAM" "CAPABILITY_NAMED_IAM" 
 ```
+
+### WebApp URL
+http://udagr-webap-1qxf9687wi0cu-549287097.us-east-1.elb.amazonaws.com/
